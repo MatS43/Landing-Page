@@ -27,6 +27,38 @@ header{
     justify-content: space-between;
     background-color: #1F2937;
     color: white;
-    padding: 32px;
-    padding-right: 200px;
+    padding-top: 32px;
+    padding-right: 78px;
+    padding-bottom: 125px;
+    padding-left: 165px;
+}
+.hero{
+    display: flex;
+    background-color: #1F2937;
+    padding-bottom: 128px;
+}
+.right-hero{
+    max-width: 448px;
+    padding-left: 165px;
+    padding-right: 65px;
+
+}
+.h2-hero{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+    margin: 0;
+}
+.p-hero {
+    font-size: 18px;
+    color:#E5E7EB
+}
+.b-hero {
+    background-color: #3882F6;
+    padding: 7px 32px;
+    border-radius: 8px;
+    font-size: 18px;
+    color:#E5E7EB;
+    margin: 0px;
+
 }

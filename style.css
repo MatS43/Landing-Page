@@ -136,6 +136,7 @@ header{
     border: 2px solid #F9FAF8;
     border-radius: 12px; 
     margin: 0px auto; 
+    font-weight: bold;
 }
 .t-call, .h-call{
     margin-left: 118px;
